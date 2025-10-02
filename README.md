@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Octio.io and "startpukit" <br>Learning different devops topics like serverless setup, logs management, container orchestration<br>Actively looking for a job<br>
+Currently working at lab O2 and many other cool projects <br>Learning different devops topics like serverless setup, logs management, container orchestration<br>Actively looking for a job<br>
 
 
 ## 🌐 Socials:
